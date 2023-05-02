@@ -1,11 +1,13 @@
-# yt-dlp-gui (forked from [Kannagi](https://github.com/kannagi0303/yt-dlp-gui)
+# yt-dlp-gui (forked from [kannagi0303](https://github.com/kannagi0303/yt-dlp-gui))
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/kannagi0303/yt-dlp-gui)](#)
 [![GitHub release (latest by date)](https://img.shields.io/github/downloads/kannagi0303/yt-dlp-gui/total)](#)
 [![GitHub release (latest by date)](https://img.shields.io/github/downloads/kannagi0303/yt-dlp-gui/latest/total)](#)
 
-A Beautiful GUI for the powerful yt-dlp developed by [kannagi0303](https://github.com/kannagi0303) 
-Please refer to the [wiki](https://github.com/kannagi0303/yt-dlp-gui/wiki) for usage and details.
 
+A Beautiful GUI for the powerful yt-dlp developed by [kannagi0303](https://github.com/kannagi0303)
+
+
+Please refer to the [wiki](https://github.com/kannagi0303/yt-dlp-gui/wiki) for usage and details.
 * Front-end of [yt-dlp](https://github.com/yt-dlp/yt-dlp) (and Compatible Applications)
 * Windows Only (7 or above)
 
